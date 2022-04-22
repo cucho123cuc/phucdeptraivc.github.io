@@ -2,6 +2,7 @@ const CONFIG = {
     introTitle: 'thg hay con đĩ ngồi trc màn hình!',
     introDesc: `tụi m là súc vật
     súc sinh
+    nguu
     bất dịch`,
     btnIntro: 'hihi đb',
     title: 'm chửi thề con cặc',
